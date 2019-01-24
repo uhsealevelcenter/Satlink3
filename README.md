@@ -1,1 +1,1 @@
-# A collection of fiels related to Satlink3 configurations.
+# A collection of files related to Satlink3 configurations.
